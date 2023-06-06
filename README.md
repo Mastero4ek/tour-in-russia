@@ -1,4 +1,4 @@
-# coffee-shop
+# tour-in-russia
 
 ## Project setup
 ```
